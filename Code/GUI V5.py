@@ -118,7 +118,7 @@ canvas.get_tk_widget().place(x=0, y=50)
 
 # set defaults
 file_path = 0
-num_leads = 12
+num_leads = 1
 sampling_freq = 500
 ECG = []
 

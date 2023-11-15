@@ -4,7 +4,7 @@ from ecgdetectors import Detectors
 import scipy.stats
 import neurokit2 as nk
 from bigO import BigO
-from bigO import algorithm
+#from bigO import algorithm
 import time
 
 detectors = Detectors(500)
